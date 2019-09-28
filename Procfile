@@ -1,1 +1,1 @@
-bot:nakobot.py
+discord:python nakobot.py
