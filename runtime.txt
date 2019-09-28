@@ -1,1 +1,1 @@
-heroku-18
+python3.6.9
